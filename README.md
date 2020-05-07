@@ -4,10 +4,10 @@ This repository contains my LeetCode Test Assignment for the position of Content
 I explained the intuition and approach to each problem in separate file and also explained it with code. For making it easier for users, I have also created another file which contains code with useful comments. I explained:
 
 ## Problems
- 1. **LC: 416 Partition Equal Subset Sum**  [My Intuition & Code Explanation:]
+ 1. **LC: 416 Partition Equal Subset Sum:- **  [My Intuition & Code Explanation:]
     <br>
     ( [Problem Link to LC](https://leetcode.com/problems/partition-equal-subset-sum/) )
- 2. **LC: 515 Find Largest Value in Each Tree Row.** [My Intuition & Code Explanation](https://github.com/Jagrit29/LeetCode_Test_Assignment/tree/master/LC-515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)
+ 2. **LC: 515 Find Largest Value in Each Tree Row:- ** [My Intuition & Code Explanation](https://github.com/Jagrit29/LeetCode_Test_Assignment/tree/master/LC-515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)
     <br>
     ([Problem Link to LC](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) )
     <br>
