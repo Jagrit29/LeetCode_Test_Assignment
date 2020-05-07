@@ -15,12 +15,19 @@ Approach:
 
 1. Type of Problem: As we can easily understand that it is a tree problem and we are given root of the tree.
 
-2. Understanding Problem Statement: Questions says that we need to find the largest value in each row.<br>
-Now to confuse a little bit, they mentioned row, But here each row means level of the binary tree.<br>
-Now in the given example, there are 3 levels or 3 rows, so we will have 3 maximum values from each row respectively. To make this easier we will call each row as level only.
+2. Understanding Problem Statement: 
+   Questions says that we need to find the largest value in each row. Now to confuse a little bit, they mentioned row, 
+   But here each row means level of the binary tree. Now in the given example, there are 3 levels or 3 rows, 
+   so we will have 3 maximum values from each row respectively. To make this easier we will call each row as level only.
 
 3. Approach: 
-       a.) Now we need maximum value from each level, for example at level zero, we have only 1 node which is root, so that is our maximum value. Now a approach which comes to mind is that we need to check all node values at PARTICULAR LEVEL and while checking all values we can find Max easily by comparision.  
-          b.) So if we do Level Order Traversal of our Tree, then we will be able to traverse each level and find the maximum. Level Order Traversal of Binary tree uses the concept of Breadth First Search and we will be using Queue to implement the solution.
+   a.) Now we need maximum value from each level, for example at level zero, we have only 1 node which is root, 
+       so that is our maximum value. Now a approach which comes to mind is that we need to check all node values at PARTICULAR LEVEL 
+       and while checking all values we can find Max easily by comparision.  
+   b.) So if we do Level Order Traversal of our Tree, then we will be able to traverse each level and find the maximum. 
+       Level Order Traversal of Binary tree uses the concept of Breadth First Search and we will be using Queue to implement the                solution.
+4. Code:
+   
+       
           
           
