@@ -5,6 +5,6 @@ This repository contains my LeetCode Test Assignment for the position of Content
  1. LC: 416 Partition Equal Subset Sum ( [Problem Link to LeetCode Platform:](https://leetcode.com/problems/partition-equal-subset-sum/) )
     <br>
     [My Intuition & Code Explanation:]
- 2. LC: 515 Find Largest Value in Each Tree Row. (  [Problem Link to LeetCode Platform:](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+ 2. LC: 515 Find Largest Value in Each Tree Row. (  [Problem Link to LeetCode Platform:](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) )
     <br>
     [My Intuition & Code Explanation]
