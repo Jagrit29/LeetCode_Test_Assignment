@@ -6,10 +6,10 @@ I explained the intuition and approach to each problem in separate file and also
 ## Problems
  1. **LC: 416 Partition Equal Subset Sum**  [My Intuition & Code Explanation:]
     <br>
-    ( [Problem Link to LeetCode Platform:](https://leetcode.com/problems/partition-equal-subset-sum/) )
+    ( [Problem Link to LC](https://leetcode.com/problems/partition-equal-subset-sum/) )
  2. **LC: 515 Find Largest Value in Each Tree Row.** [My Intuition & Code Explanation](https://github.com/Jagrit29/LeetCode_Test_Assignment/tree/master/LC-515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)
     <br>
-    ([Problem Link to LeetCode Platform:](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) )
+    ([Problem Link to LC](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) )
     <br>
 
    **I explained everything in following steps:** <br>
