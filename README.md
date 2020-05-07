@@ -7,8 +7,8 @@ This repository contains my LeetCode Test Assignment for the position of Content
     [Problem Link to LeetCode Platform:](https://leetcode.com/problems/partition-equal-subset-sum/)
     <br>
     [My Intuition & Code Explanation:]
- 2. LC: 515 Find Largest Value in Each Tree Row
- <br>
+ 2. LC: 515 Find Largest Value in Each Tree Row.
+    <br>
     [Problem Link to LeetCode Platform:](https://leetcode.com/problems/partition-equal-subset-sum/)
     <br>
     [My Intuition & Code Explanation]
