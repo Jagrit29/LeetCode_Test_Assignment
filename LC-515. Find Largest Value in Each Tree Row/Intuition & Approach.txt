@@ -77,7 +77,8 @@ Approach:
 
               }
           }
-   
+   5. Time Complexity: As we are traversing each Node of tree Once, so Time Complexity is O(N), where N is the number of nodes in the tree.
+      Space Complexity: We are using Queue to represent the nodes in present and next level, so Space complexity will be O(N). Also we are using List to print the output but it is not usually counted as extra space.
        
           
           
